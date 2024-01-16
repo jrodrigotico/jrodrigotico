@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is João Rodrigo. I have a degree in Accounting Sciences from the University of São Paulo (USP).
+My name is João Rodrigo and I have a degree in Accounting Sciences from the University of São Paulo (USP).
 Currently working with financial consulting with great enthusiasm for data sciente, programming, machine learning and data!
 
 <!--
